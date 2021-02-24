@@ -2,6 +2,7 @@ var c = "hello";
 const a = "5";
 let b = 5;
 b = 10;
+const e =5;
 
 const arr = [1, 3, 4, 5, "hello"];
 
